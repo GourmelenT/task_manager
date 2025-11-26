@@ -138,11 +138,3 @@ Les données sont stockées localement dans votre navigateur (localStorage) :
 ## 📄 Licence
 
 Ce projet est libre d'utilisation pour un usage personnel et éducatif.
-
-## 👨‍💻 Auteur
-
-Développé avec ❤️ en HTML, CSS et JavaScript
-
----
-
-**Note** : Pour plus de détails sur les fonctionnalités, consultez le fichier `FEATURES.md`
